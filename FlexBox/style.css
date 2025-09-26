@@ -1,0 +1,208 @@
+.container1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:rgb(221, 241, 230);
+    height:90px;
+    gap: 10px;
+}
+.container2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+    gap:10px;
+}
+.container3{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color:rgb(221, 241, 230);
+    height:90px;
+    gap: 10px;
+}
+.container4{
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-end;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+}
+.container5{
+    display: flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+}
+.container6{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: flex-end;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+}
+.container7{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+    gap:10px;
+}
+.container8{
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-end;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+}
+.container9{
+    display: flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+}
+.container10{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(221, 241, 230);
+    height: 90px;
+    gap:10px;
+}
+
+
+.cubo1{
+    background-color:rgb(184, 10, 91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height: 50px;
+    border-radius:13%
+}
+
+
+.cubo2{
+    background-color:rgb(110, 6, 114);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo3{
+    background-color:rgb(153, 3, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    width:50px;
+    height: 50px;
+    border-radius:13%
+}
+
+
+.cubo4{
+    background-color:rgb(143, 5, 74);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo5{
+    background-color:rgb(203, 145, 229);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo6{
+    background-color:rgb(179, 77, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo7{
+    background-color:rgb(206, 4, 233);
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo8{
+    background-color:rgb(187, 57, 90);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height: 50px;
+    border-radius:13%
+}
+
+
+.cubo9{
+    background-color:rgb(88, 3, 53);
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+
+.cubo10{
+    background-color:rgb(21, 162, 187);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height: 50px;
+   border-radius:13%
+}
+
+.rodapep{
+font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
